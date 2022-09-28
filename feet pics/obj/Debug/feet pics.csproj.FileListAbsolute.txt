@@ -1,0 +1,59 @@
+C:\Users\Or\source\repos\feet pics\feet pics\bin\feet pics.dll.config
+C:\Users\Or\source\repos\feet pics\feet pics\bin\feet pics.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\feet pics.pdb
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\csc.exe
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\csc.exe.config
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\csc.rsp
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\csi.exe
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\csi.exe.config
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\csi.rsp
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.AppContext.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Console.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.IO.Compression.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Net.Http.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.ValueTuple.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\vbc.exe
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\vbc.exe.config
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\vbc.rsp
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\VBCSCompiler.exe
+C:\Users\Or\source\repos\feet pics\feet pics\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Or\source\repos\feet pics\feet pics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Or\source\repos\feet pics\feet pics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Or\source\repos\feet pics\feet pics\obj\Debug\feet pics.csproj.AssemblyReference.cache
+C:\Users\Or\source\repos\feet pics\feet pics\obj\Debug\feet pics.csproj.CoreCompileInputs.cache
+C:\Users\Or\source\repos\feet pics\feet pics\obj\Debug\feet pics.csproj.CopyComplete
+C:\Users\Or\source\repos\feet pics\feet pics\obj\Debug\feet pics.dll
+C:\Users\Or\source\repos\feet pics\feet pics\obj\Debug\feet pics.pdb

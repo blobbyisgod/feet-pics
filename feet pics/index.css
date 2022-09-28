@@ -1,0 +1,25 @@
+﻿body {
+}
+
+h1{
+    font-size:120px;
+    font-family:'Goudy Old Style';
+    font-weight:bold;
+    color:firebrick
+}
+h2 {
+    font-size: 50px;
+    font-family: 'Goudy Old Style';
+    font-weight: bold;
+    color: firebrick
+}
+
+img{
+    height:100px;
+    width:250px;
+}
+
+.feet{
+    height: 200px;
+    width: 500px
+}
